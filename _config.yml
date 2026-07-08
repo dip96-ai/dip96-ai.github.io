@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Dip Sarkar"
 title_separator          : "-"
 name                     : &name "Dip Sarkar"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Applicant | Electrical and Electronic Engineering | Ahsanullah University of Science and Technology"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://dip96-ai.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dip96-ai/dip96-ai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dip Sarkar"
+  pronouns         : # example: "he/his"  
+  bio              : "PhD Applicant Interested in Optical Wireless Communication, Smart Grid Technology, Health AI, AI/ML, Computer Networks and Cybersecurity"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Ahsanullah University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dipsarkar897@gmail.com" 
 
   # Academic websites
   academia         : # URL
