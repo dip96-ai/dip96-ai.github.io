@@ -1,0 +1,9 @@
+title: "A Time of Use Tariff Based Demand Side Management Algorithm for Residential Consumers"
+collection: publications
+permalink: /publication/A-Time-of-Use-Tariff-Based-Demand-Side-Management-Algorithm-for-Residential-Consumers
+date: 2026-07-08
+venue: '2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10103303'
+citation: 'Hamim, S. J., Hossain, F. S., Hasan, M. M., Sarkar, D., and Mainuddin, M. (2022). “A Time of Use Tariff Based Demand Side Management Algorithm for Residential Consumers.” 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI). IEEE. https://doi.org/10.1109/STI56238.2022.10103303'
+
+Abstract: The demand for electricity is burgeoning at a rapid rate as we move towards an advanced era of technology. However, the growth of new generation is lagging behind the demand due to the scarcity of fuels. As such, the necessity for load management is crucial to meet the upcoming energy crisis. The implementation of Demand Side Management (DSM) can be auspicious both for the utility and for the consumers. The consumers can be benefited by the reduced electricity bills and the utility can be benefitted through the reduction of peak electricity demand. In this paper, a methodology is proposed based on Time of Use (TOU) tariff to implement demand side management program for residential consumers. A revised electricity tariff is proposed to motivate the customers to shift their loads and to take part in the DSM program. The efficacy of the proposed algorithm is demonstrated and compared against the existing billing structure. It is found that the proposed method efficiently reduces the electricity bill of the consumers as well as lessens the burden on the existing power system by reducing the peak demand.
